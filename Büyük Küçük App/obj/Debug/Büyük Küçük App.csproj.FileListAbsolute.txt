@@ -1,0 +1,9 @@
+C:\Users\mrt_b\source\repos\Büyük Küçük App\Büyük Küçük App\bin\Debug\Büyük Küçük App.exe.config
+C:\Users\mrt_b\source\repos\Büyük Küçük App\Büyük Küçük App\bin\Debug\Büyük Küçük App.exe
+C:\Users\mrt_b\source\repos\Büyük Küçük App\Büyük Küçük App\bin\Debug\Büyük Küçük App.pdb
+C:\Users\mrt_b\source\repos\Büyük Küçük App\Büyük Küçük App\obj\Debug\Büyük_Küçük_App.Form1.resources
+C:\Users\mrt_b\source\repos\Büyük Küçük App\Büyük Küçük App\obj\Debug\Büyük_Küçük_App.Properties.Resources.resources
+C:\Users\mrt_b\source\repos\Büyük Küçük App\Büyük Küçük App\obj\Debug\Büyük Küçük App.csproj.GenerateResource.cache
+C:\Users\mrt_b\source\repos\Büyük Küçük App\Büyük Küçük App\obj\Debug\Büyük Küçük App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Büyük Küçük App\Büyük Küçük App\obj\Debug\Büyük Küçük App.exe
+C:\Users\mrt_b\source\repos\Büyük Küçük App\Büyük Küçük App\obj\Debug\Büyük Küçük App.pdb
